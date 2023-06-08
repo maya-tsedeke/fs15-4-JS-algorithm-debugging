@@ -38,7 +38,7 @@ format dates day-month-year
 expected result: ['24-12-2014', '23-09-2022', '30-12-2021', '08-02-2021', '15-07-2018', '14-12-2019', '14-12-2022'] . 
 You only need to produce the same array as expected result, no need to consider other 
 possibility. 
-
+no mode
  */
 
 let myArr = ['12-24-2014', '09-2022-23', '12-30-2021', '08-02-2021', '07-15-2018', '2019-12-14', '2022-14-12']
